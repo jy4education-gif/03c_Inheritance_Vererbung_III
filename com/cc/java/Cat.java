@@ -4,7 +4,7 @@ public class Cat {
 
   private String firstName;
   private String furColor;
-  private int age;
+  protected int age;
 
   private int counter;
 
