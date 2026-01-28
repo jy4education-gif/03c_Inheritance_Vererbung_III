@@ -12,7 +12,7 @@ public class Cat extends SuperCat {
       return checkCompliance();
   }
 
-private String checkCompliance(){
+  private String checkCompliance(){
 
          counter++;
 
