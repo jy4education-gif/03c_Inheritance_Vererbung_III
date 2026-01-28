@@ -26,7 +26,7 @@ public class Cat extends SuperCat {
             default:
                 return "1#!?&&%"; //4th ++
         }
-}
+  }
 
 }
   
